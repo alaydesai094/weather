@@ -1,0 +1,6 @@
+framework module Pods_AFStarter {
+  umbrella header "Pods-AFStarter-umbrella.h"
+
+  export *
+  module * { export * }
+}
